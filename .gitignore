@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.parquet
+*.csv
+errors.json
+*.log
+*.key
+*credentials*.json
+.ipynb_checkpoints/
+*.swp
